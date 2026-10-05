@@ -1,4 +1,4 @@
-import React, { type Dispatch, type SetStateAction } from "react";
+import { type Dispatch, type SetStateAction } from "react";
 import type { Iplayer } from "../../types/player";
 import { TbTrash } from "react-icons/tb";
 

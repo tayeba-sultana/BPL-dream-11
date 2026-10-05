@@ -1,6 +1,5 @@
-import React, { useState, type Dispatch, type SetStateAction } from 'react';
+import React, { type Dispatch, type SetStateAction } from 'react';
 import type { Iplayer } from '../../types/player';
-import PlayerCard from './PlayerCard';
 import SelectedPlayerCard from "./SelectedPlayerCard";
 
 interface ISelectedPlayersProps {

@@ -1,4 +1,4 @@
-import React, { use, useState, type Dispatch, type SetStateAction } from 'react';
+import { use, useState, type Dispatch, type SetStateAction } from 'react';
 import type { Iplayer } from '../../types/player';
 import AvailablePlayers from './AvailablePlayers';
 import SelectedPlayers from './SelectedPlayers';
